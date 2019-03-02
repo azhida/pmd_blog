@@ -14,5 +14,7 @@
         @include('layouts._footer')
     </div>
 </div>
+
+<script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
