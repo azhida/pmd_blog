@@ -21,12 +21,15 @@
         </div>
     @else
         <div class="jumbotron">
-            <h1>Hello 坡马代</h1>
+            <h1>你好！</h1>
             <p class="lead">
-                你现在所看到的是 满目青山的<a href="">坡马代风景</a> 和 热情好客的<a href="">坡马代人</a>。
+                欢迎来到<a href="">坡马代</a>。
+            </p>
+            <p class="lead">
+                你将看到的是 满目青山的<a href="">坡马代风景</a> 和 热情好客的<a href="">坡马代人</a>。
             </p>
             <p>
-                一切，将从这里开始。
+                一切，将从这里开始。为您讲述大山里的神奇。
             </p>
             <p>
                 <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
